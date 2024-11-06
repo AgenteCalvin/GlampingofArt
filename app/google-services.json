@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915428191974",
+    "project_id": "dbglamping-cdd45",
+    "storage_bucket": "dbglamping-cdd45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915428191974:android:a6b10a3b5409ec9abcd527",
+        "android_client_info": {
+          "package_name": "com.example.glampingofart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpr7-hrpeReXXRzDDq1PgbUA8FIYr6vu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
