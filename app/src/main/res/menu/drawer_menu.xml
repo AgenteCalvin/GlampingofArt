@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_item1"
+        android:title="Ubicación"/>
+    <item
+        android:id="@+id/nav_item2"
+        android:title="Actividades" />
+    <item
+        android:id="@+id/nav_item3"
+        android:title="Horarios" />
+    <item
+        android:id="@+id/nav_item4"
+        android:title="Reciclaje" />
+    <item
+        android:id="@+id/nav_item5"
+        android:title="Perfil" />
+    <item
+        android:id="@+id/nav_item6"
+        android:title="Configuración" />
+</menu>
