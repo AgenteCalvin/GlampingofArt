@@ -1,8 +1,9 @@
 {
   "project_info": {
     "project_number": "915428191974",
+    "firebase_url": "https://dbglamping-cdd45-default-rtdb.firebaseio.com",
     "project_id": "dbglamping-cdd45",
-    "storage_bucket": "dbglamping-cdd45.appspot.com"
+    "storage_bucket": "dbglamping-cdd45.firebasestorage.app"
   },
   "client": [
     {
@@ -12,7 +13,20 @@
           "package_name": "com.example.glampingofart"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "915428191974-soroj4m20ruaps7p7pp8tqp6pror9tt0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.glampingofart",
+            "certificate_hash": "4142cc708051e3bffafb22d88bd9e2ba400b5804"
+          }
+        },
+        {
+          "client_id": "915428191974-dqifdvevp6efn3i21uuo4nlb68ofgfbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBpr7-hrpeReXXRzDDq1PgbUA8FIYr6vu0"
@@ -20,7 +34,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915428191974-dqifdvevp6efn3i21uuo4nlb68ofgfbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

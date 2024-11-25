@@ -23,7 +23,7 @@ class loginactivity : AppCompatActivity() {
         setContentView(R.layout.loginactivity)
 
         /*
-        Extraer datos de las cajas de texto hola
+        Extraer datos de las cajas de texto hola x2
 
         box_usuario guarda el valor ingresado en usuario
         box_contraseña guarda el valor ingresado en contraseña
